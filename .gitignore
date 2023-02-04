@@ -1,5 +1,4 @@
 # Ignore docs files
-Gemfile.lock
 _gh_pages
 _site
 _drafts
